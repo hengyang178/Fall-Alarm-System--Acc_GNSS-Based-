@@ -1,0 +1,698 @@
+X-Account-Key: account3
+X-UIDL: 536510750.09231@buaa.edu.cn
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from unknown192.168.128.202 (HELO mx1.dxt.buaa.edu.cn) (192.168.128.202)
+ by 192.168.128.207 with SMTP; Wed, 09 May 2012 04:59:09 +0800
+X-EYOU-SPAMVALUE:0
+X-EYOU-DEALDRC:
+X-EMDG-VER:2009-11-28
+Received: (eyou anti_spam gateway 3.0); Wed, 09 May 2012 04:52:49 +0800
+Message-ID: <536510369.20187@mx1.dxt.buaa.edu.cn>
+Received: from 209.85.216.174 by 192.168.128.206 with SMTP; Wed, 09 May 2012 04:52:48 +0800
+Received: by qcro28 with SMTP id o28so3129872qcr.19
+        for <falin.wu@buaa.edu.cn>; Tue, 08 May 2012 13:56:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ion.org; s=google;
+        h=from:to:cc:subject:date:message-id:mime-version:content-type
+         :x-mailer:thread-index:content-language;
+        bh=I/BlELDFGQqOhOoDJ0jLFfHCWGX15xQfUD1hB1uJ4Iw=;
+        b=Ya84lAGLtwUyMpQ/yCwHd+m2y8Dz3RnnLZZLIURgUOGqsSE24f+efokI5LpcZsle+F
+         g1Q/xdMTFGLLC3GD2dzgAjEHL0CYUwNz5fmLpWuxOjv64AGMZo/ZPmV6+wGSz75Du64u
+         KpoaOjh7IYD6IFnU1Sa30O5wZEExpUTRZfHEw=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=from:to:cc:subject:date:message-id:mime-version:content-type
+         :x-mailer:thread-index:content-language:x-gm-message-state;
+        bh=I/BlELDFGQqOhOoDJ0jLFfHCWGX15xQfUD1hB1uJ4Iw=;
+        b=jvLRflaICto/Y8GAgULq7iS0Vu/eR79mFiR+tSLuVaJYRB9nok9/MSHmmLDBwNdt+D
+         cYt82IHqY/Zm62uPGcsIMHXE7iibgnlQ1TyR4UeospXCgCEZdHA0SRRaB+npW/ZZf8Fy
+         GV/mEfJcIX9VfSir5GW7Y+spBzKoziy1gP3k7MfFiB38FxK118Aci5Aow6TFXghM0ylY
+         drBPs2bT/B9c4g3Mv7KRRed3+ct6uTpJTCjOE66L/efUfkcrthdS/9ErwCjX+KJFUiji
+         HLvqGT1MIOYtWYLVo57/nhVacCHSOSqswqUP0itMM1XJdMzdjf4TNipSnwCs5s/beDmU
+         l5bw==
+Received: by 10.229.8.7 with SMTP id f7mr10110883qcf.73.1336510587485;
+        Tue, 08 May 2012 13:56:27 -0700 (PDT)
+Return-Path: <meetings@ion.org>
+Received: from MiriamPC (173-167-202-41-ip-static.hfc.comcastbusiness.net. [173.167.202.41])
+        by mx.google.com with ESMTPS id cp17sm6006024qab.5.2012.05.08.13.56.26
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 08 May 2012 13:56:26 -0700 (PDT)
+From: "Meetings" <meetings@ion.org>
+To: <hwchang@ucalgary.ca>,
+	<henry.chen@mediatek.com>,
+	<mholdgate@gmail.com>,
+	<falin.wu@buaa.edu.cn>
+Cc: <Wei-Wen.Kao@tomtom.com>,
+	<scott.burgett@garmin.com>,
+	<fvandiggelen@broadcom.com>
+Subject: =?us-ascii?Q?GNSS_2012_Abstract_Acceptance_Notification_-_Session_F6a:_Mo?=
+	=?us-ascii?Q?dern_Applications:_Sports=2C_Robots=2C_Health__?=
+Date: Tue, 8 May 2012 16:56:25 -0400
+Message-ID: <070901cd2d5d$08cfd8a0$1a6f89e0$@ion.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_070A_01CD2D3B.81C2F390"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Ac0tXQdTmQ/tWclzSM+qZCrg0V/EVw==
+Content-Language: en-us
+X-Gm-Message-State: ALoCoQlTyxFcsCjXAqfQMz2PXj0UE+cUAKQ0HvPk01og78TpheQoxihvoh2Lq5pZ6srVRpaS2YU0
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_070A_01CD2D3B.81C2F390
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear GNSS 2012 Author: 
+
+ 
+
+PLEASE REPLY TO THIS E-MAIL TO CONFIRM RECEIPT ( <mailto:meetings@ion.org>
+meetings@ion.org)
+
+ 
+
+Congratulations!  Your paper has been accepted into the ION GNSS 2012
+program, September 17-21, 2012, in Nashville, Tennessee.  The presentation
+session schedule is listed below.  You are encouraged to contact your
+Session Chair, preferably by e-mail, at your earliest opportunity.  Please
+keep them current on your status.  They are your first points of contact for
+any questions you might have. (Session Chair e-mail addresses are listed
+with session layout below.)
+
+ 
+
+Alternates: 
+
+If you have been selected as an alternate, you should bring all necessary
+materials and be prepared to present at this program in the event of a
+cancellation. If you attend the speaker breakfast and your session and are
+fully prepared to present your paper, your paper WILL be published in the
+meeting's technical proceedings regardless of whether or not you were able
+to present your paper orally.
+
+ 
+
+The Complete program is available on line at www.ion.org 
+
+ 
+
+**IMPORTANT**
+
+ 
+
+Your author's kit with all necessary information is now available online at
+the ION GNSS Author Resource Center at:
+
+http://www.ion.org/authors/gnss/. This new online format gives you 24/7,
+anywhere/anytime access to all the information you need to carefully prepare
+your paper for submission and to create a dynamic presentation at your
+session. The Author Resource Center has sections on: 
+
+ 
+
+Important Dates and Deadlines
+
+Paper Preparation Instructions
+
+Presentation Instructions
+
+Session Chair Responsibilities
+
+Helpful tips on Promoting your Presentation, and All required and useful
+Forms & Document Templates
+
+ 
+
+Please notify the ION National Office if you are unable to access online
+Author Resource Center. A copy can be e-mailed or faxed to you upon your
+request (meetings@ion.org).
+
+ 
+
+1.            Please note all required deadlines for your paper and session
+materials.  It is your responsibility to ensure that your paper is complete,
+with all necessary approvals on time for presentation at the conference and
+inclusion in the proceedings.
+
+ 
+
+2.            A completed Copyright Release Form is required in order to
+publish your paper in the proceedings after the meeting. Please complete and
+submit your Copyright Release Form to meetings@ion.org or fax to
+703-366-2724.  NOTE: Original forms are required for publication.
+
+ 
+
+3.            A GNSS paper template has been provided to aid you in
+formatting your paper using MS Word.  Much of the formatting has been done
+for you, should you wish to use this template to prepare your paper.  PLEASE
+NOTE: Due to various software packages the formatting as provided by the ION
+may become distorted.  It is the author's responsibility to ensure the paper
+is formatted correctly.  This template is only an aid.  Please refer to the
+section on Paper Preparation Instructions to ensure your paper has been
+formatted correctly.  A4-template is attached for international authors.
+
+ 
+
+Again, congratulations on the acceptance of your paper.  We look forward to
+seeing you in Nashville!
+
+ 
+
+Sincerely,
+
+Miriam Lewis
+
+ 
+
+* (Please look at your paper title and authors carefully to determine if all
+of the information is correct.  If there is an error please contact The
+Institute of Navigation so any necessary corrections can be made on the
+on-site and on-line program: meetings@ion.org)
+
+ 
+
+F6a: Modern Applications: Sports, Robots, Health  
+
+Co-chairs: Dr. Wei-Wen Kao (Wei-Wen.Kao@tomtom.com) and Mr. Scott Burgett
+(scott.burgett@garmin.com) 
+
+Friday Afternoon, September 21 - 1:45 p.m. - 4:50 p.m. 
+
+ 
+
+ 
+
+1.      ION's 2012 Lawn Mower Competition Winner:   
+
+ 
+
+2.      ION's 2012 Snowplow Competition First Place Winner:   
+
+ 
+
+3.      A Low Cost Multi-Sensors Navigation Solution for Sport Performance
+Assessment: H-W. Chang, University of Calgary, Canada; J. Georgy, Trusted
+Positioning Inc., Canada; N. El-Sheimy, University of Calgary, Canada  
+
+ 
+
+4.      Performance of A GNSS Receiver Under Portable Vibration: H-J. Chen,
+C-W. Chen, T-Y. Chiou, W-C. Lai, MediaTek, Taiwan  
+
+ 
+
+Alternates 
+
+ 
+
+1.      Have Trunk, will Travel: Using GPS to Improve the Welfare of Asian
+and African Zoo Elephants: M. Holdgate, Portland State University & Oregon
+Zoo; D. Shepherdson, Oregon Zoo  
+
+ 
+
+2.      Development of a Multisensor Based Fall Alarm System: F. Wu, C. Hu,
+H. Zhao, Y. Zhao, Beihang University, China   
+
+ 
+
+ 
+
+
+------=_NextPart_000_070A_01CD2D3B.81C2F390
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Plain Text";
+	font-family:"Calibri","sans-serif";}
+MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:164134015;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-906589332 67698703 67698713 67698715 67698703 =
+67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:1355959672;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2067229814 67698703 67698713 67698715 67698703 =
+67698713 67698715 67698703 67698713 67698715;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2
+	{mso-list-id:1533613428;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1441423972 67698703 67698713 67698715 67698703 =
+67698713 67698715 67698703 67698713 67698715;}
+@list l2:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l3
+	{mso-list-id:2141917342;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1909111382 67698703 67698713 67698715 67698703 =
+67698713 67698715 67698703 67698713 67698715;}
+@list l3:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l3:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l3:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoPlainText><span =
+style=3D'font-size:12.0pt'>Dear GNSS 2012 Author: =
+<o:p></o:p></span></p><p class=3DMsoPlainText><b><span =
+style=3D'font-size:16.0pt;color:red'><o:p>&nbsp;</o:p></span></b></p><p =
+class=3DMsoPlainText><b><span =
+style=3D'font-size:16.0pt;color:red'>PLEASE REPLY TO THIS E-MAIL TO =
+CONFIRM RECEIPT (<a href=3D"mailto:meetings@ion.org"><span =
+style=3D'color:red'>meetings@ion.org</span></a>)<o:p></o:p></span></b></p=
+><p class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p =
+class=3DMsoPlainText>Congratulations!&nbsp; Your paper has been accepted =
+into the ION GNSS 2012 program, September 17-21, 2012, in Nashville, =
+Tennessee.&nbsp; The presentation session schedule is listed =
+below.&nbsp; You are encouraged to contact your Session Chair, =
+preferably by e-mail, at your earliest opportunity.&nbsp; Please keep =
+them current on your status.&nbsp; They are your first points of contact =
+for any questions you might have. (Session Chair e-mail addresses are =
+listed with session layout below.)<o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p =
+class=3DMsoPlainText><b>Alternates: <o:p></o:p></b></p><p =
+class=3DMsoPlainText>If you have been selected as an alternate, you =
+should bring all necessary materials and be prepared to present at this =
+program in the event of a cancellation. If you attend the speaker =
+breakfast and your session and are fully prepared to present your paper, =
+your paper WILL be published in the meeting&#8217;s technical =
+proceedings regardless of whether or not you were able to present your =
+paper orally.<o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMsoPlainText>The =
+Complete program is available on line at <a =
+href=3D"http://www.ion.org">www.ion.org</a> <o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p =
+class=3DMsoPlainText>**IMPORTANT**<o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMsoPlainText>Your =
+author's kit with all necessary information is now available online at =
+the ION GNSS Author Resource Center at:<o:p></o:p></p><p =
+class=3DMsoPlainText><a =
+href=3D"http://www.ion.org/authors/gnss/">http://www.ion.org/authors/gnss=
+/</a>. This new online format gives you 24/7, anywhere/anytime access to =
+all the information you need to carefully prepare your paper for =
+submission and to create a dynamic presentation at your session. The =
+Author Resource Center has sections on: <o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p =
+class=3DMsoPlainText>Important Dates and Deadlines<o:p></o:p></p><p =
+class=3DMsoPlainText>Paper Preparation Instructions<o:p></o:p></p><p =
+class=3DMsoPlainText>Presentation Instructions<o:p></o:p></p><p =
+class=3DMsoPlainText>Session Chair Responsibilities<o:p></o:p></p><p =
+class=3DMsoPlainText>Helpful tips on Promoting your Presentation, and =
+All required and useful Forms &amp; Document Templates<o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMsoPlainText>Please =
+notify the ION National Office if you are unable to access online Author =
+Resource Center. A copy can be e-mailed or faxed to you upon your =
+request (<a =
+href=3D"mailto:meetings@ion.org">meetings@ion.org</a>).<o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p =
+class=3DMsoPlainText>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; Please note all required deadlines for your paper and =
+session materials.&nbsp; It is your responsibility to ensure that your =
+paper is complete, with all necessary approvals on time for presentation =
+at the conference and inclusion in the proceedings.<o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p =
+class=3DMsoPlainText>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; A completed Copyright Release Form is required in order =
+to publish your paper in the proceedings after the meeting. Please =
+complete and submit your Copyright Release Form to <a =
+href=3D"mailto:meetings@ion.org">meetings@ion.org</a> or fax to =
+703-366-2724.&nbsp; NOTE: Original forms are required for =
+publication.<o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p =
+class=3DMsoPlainText>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; A GNSS paper template has been provided to aid you in =
+formatting your paper using MS Word.&nbsp; Much of the formatting has =
+been done for you, should you wish to use this template to prepare your =
+paper.&nbsp; PLEASE NOTE: Due to various software packages the =
+formatting as provided by the ION may become distorted.&nbsp; It is the =
+author's responsibility to ensure the paper is formatted =
+correctly.&nbsp; This template is only an aid.&nbsp; Please refer to the =
+section on Paper Preparation Instructions to ensure your paper has been =
+formatted correctly.&nbsp; A4-template is attached for international =
+authors.<o:p></o:p></p><p class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p =
+class=3DMsoPlainText>Again, congratulations on the acceptance of your =
+paper.&nbsp; We look forward to seeing you in =
+Nashville!<o:p></o:p></p><p class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p =
+class=3DMsoPlainText>Sincerely,<o:p></o:p></p><p =
+class=3DMsoPlainText>Miriam Lewis<o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMsoPlainText>* =
+(Please look at your paper title and authors carefully to determine if =
+all of the information is correct.&nbsp; If there is an error please =
+contact The Institute of Navigation so any necessary corrections can be =
+made on the on-site and on-line program: <a =
+href=3D"mailto:meetings@ion.org">meetings@ion.org</a>)<o:p></o:p></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:16.0pt;font-family:"Times New =
+Roman","serif"'>F</span></b><b><span =
+style=3D'font-size:16.0pt;font-family:"Times New Roman","serif"'>6a: =
+Modern Applications: Sports, Robots, Health </span></b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>&nbsp;<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>Co-chairs: </span><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'>Dr. =
+Wei-Wen Kao (<a =
+href=3D"mailto:Wei-Wen.Kao@tomtom.com">Wei-Wen.Kao@tomtom.com</a>) and =
+Mr. Scott Burgett (<a =
+href=3D"mailto:scott.burgett@garmin.com)">scott.burgett@garmin.com)</a> =
+<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'>Friday =
+Afternoon, September 21 &#8211; 1:45 p.m. &#8211; 4:50 p.m. =
+<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoListParagraph =
+style=3D'text-indent:-.25in;mso-list:l1 level1 lfo4'><![if =
+!supportLists]><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><span style=3D'mso-list:Ignore'>1.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'>ION's =
+2012 Lawn Mower Competition Winner</span></b><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>:</span></b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>&nbsp;&nbsp; <o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoListParagraph =
+style=3D'text-indent:-.25in;mso-list:l1 level1 lfo4'><![if =
+!supportLists]><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><span style=3D'mso-list:Ignore'>2.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'>ION's =
+2012 Snowplow Competition First Place Winner</span></b><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>:</span></b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>&nbsp;&nbsp; <o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoListParagraph =
+style=3D'text-indent:-.25in;mso-list:l1 level1 lfo4'><![if =
+!supportLists]><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><span style=3D'mso-list:Ignore'>3.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'>A Low =
+Cost Multi-Sensors Navigation Solution for Sport Performance =
+Assessment</span></b><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>:</span></b><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'> H-W. =
+Chang, University of Calgary, Canada; J. Georgy, Trusted Positioning =
+Inc., Canada; N. El-Sheimy, University of Calgary, Canada&nbsp; =
+<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoListParagraph =
+style=3D'text-indent:-.25in;mso-list:l1 level1 lfo4'><![if =
+!supportLists]><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><span style=3D'mso-list:Ignore'>4.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>Performance of A GNSS Receiver Under Portable =
+Vibration</span></b><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>:</span></b><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'> H-J. =
+Chen, C-W. Chen, T-Y. Chiou, W-C. Lai, MediaTek, Taiwan&nbsp; =
+<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+align=3Dcenter style=3D'text-align:center'><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>Alternates <o:p></o:p></span></b></p><p =
+class=3DMsoNormal><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoListParagraph =
+style=3D'text-indent:-.25in;mso-list:l2 level1 lfo3'><![if =
+!supportLists]><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><span style=3D'mso-list:Ignore'>1.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'>Have =
+Trunk, will Travel: Using GPS to Improve the Welfare of Asian and =
+African Zoo Elephants</span></b><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>:</span></b><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'> M. =
+Holdgate, Portland State University &amp; Oregon Zoo; D. Shepherdson, =
+Oregon Zoo&nbsp; <o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoListParagraph =
+style=3D'text-indent:-.25in;mso-list:l2 level1 lfo3'><![if =
+!supportLists]><span style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><span style=3D'mso-list:Ignore'>2.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><b><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'>Development of a Multisensor Based Fall Alarm =
+System</span></b><b><span style=3D'font-size:12.0pt;font-family:"Times =
+New Roman","serif"'>:</span></b><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'> F. Wu, =
+C. Hu, H. Zhao, Y. Zhao, Beihang University, China&nbsp;&nbsp; =
+<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_070A_01CD2D3B.81C2F390--
+
+
